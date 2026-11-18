@@ -1,0 +1,28 @@
+𝐀𝐈 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 𝐄𝐯𝐞𝐫𝐲 𝐐𝐀 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐒𝐡𝐨𝐮𝐥𝐝 𝐊𝐧𝐨𝐰 𝐢𝐧 𝟐𝟎𝟐𝟔
+
+✅𝐇𝐨𝐰 𝐚𝐫𝐞 𝐲𝐨𝐮 𝐮𝐬𝐢𝐧𝐠 𝐀𝐈 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐝𝐚𝐢𝐥𝐲 𝐭𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐨𝐫𝐤?
+I use AI to generate test cases, create automation code snippets, write SQL queries, generate API payloads, and summarize requirements. It helps me save time, but I always review and validate the output before using it.
+
+✅𝐖𝐡𝐢𝐜𝐡 𝐀𝐈 𝐭𝐨𝐨𝐥𝐬 𝐡𝐚𝐯𝐞 𝐲𝐨𝐮 𝐮𝐬𝐞𝐝?
+I have used ChatGPT, Claude, and GitHub Copilot. They assist with coding, debugging, documentation, and brainstorming test scenarios, making my work more efficient.
+
+✅𝐇𝐨𝐰 𝐜𝐚𝐧 𝐀𝐈 𝐡𝐞𝐥𝐩 𝐢𝐧 𝐭𝐞𝐬𝐭 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧?
+AI can help generate test scenarios, create automation scripts, analyze failures, suggest locators, generate test data, and identify potential edge cases. However, the generated output still needs to be reviewed and validated by the QA engineer.
+
+✅𝐂𝐚𝐧 𝐀𝐈 𝐫𝐞𝐩𝐥𝐚𝐜𝐞 𝐐𝐀 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐬?
+No. AI is a powerful assistant, but it cannot completely replace human judgment, business understanding, exploratory testing, and critical thinking. A QA engineer is still responsible for ensuring quality.
+
+✅𝐖𝐡𝐚𝐭 𝐢𝐬 𝐩𝐫𝐨𝐦𝐩𝐭 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠?
+Prompt engineering is the practice of writing clear and specific instructions to get accurate and useful responses from AI. Better prompts generally lead to better results.
+
+✅𝐖𝐡𝐚𝐭 𝐢𝐬 𝐨𝐧𝐞 𝐥𝐢𝐦𝐢𝐭𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐀𝐈 𝐢𝐧 𝐭𝐞𝐬𝐭𝐢𝐧𝐠?
+AI can generate incorrect or incomplete information if the prompt lacks context. That's why every AI-generated output should be verified before it is used in a project.
+
+𝐌𝐨𝐫𝐞 𝐀𝐈 𝐪𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 𝐐𝐀 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐬 𝐬𝐡𝐨𝐮𝐥𝐝 𝐩𝐫𝐞𝐩𝐚𝐫𝐞:
+✅How would you test an AI/LLM-based application?
+✅How do you test AI hallucinations?
+✅How would you evaluate the accuracy of an AI response?
+✅What is RAG testing?
+✅How would you test a RAG-based application?
+✅What is prompt injection, and how would you test for it?
+✅How would you test an AI agent that uses external tools?
