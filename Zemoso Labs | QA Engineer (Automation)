@@ -1,0 +1,27 @@
+Zemoso Labs | QA Engineer (Automation) – Interview Experience
+
+Based on my recent interview experience with Zemoso Labs for the QA Engineer (Automation) role, I'm sharing the questions discussed during the interview. This may help candidates preparing for similar QA Automation opportunities.
+
+Interview Questions
+
+Technical Discussion
+
+1. Tell me about yourself.
+2. Walk me through your roles and responsibilities as a tester in your team.
+3. Apart from Selenium automation testing, are you familiar with other testing technologies such as mobile testing and database testing?
+4. Explain OOP concepts with real-time examples.
+5. How would you communicate a critical technical issue or a business-impacting problem to a non-technical stakeholder? Explain your approach.
+
+Coding & Problem-Solving Questions
+
+6. Given an array of integers, write a function in Java, Python, or JavaScript to find all unique triplets whose sum is zero. Optimize the solution for time and space complexity.
+
+7. Given a list of integers, find the longest contiguous subsequence in which the difference between consecutive numbers is exactly 1. Return both the subsequence and its length.
+
+Key Areas to Prepare
+
+- Core Java and OOP concepts
+- Selenium Automation Testing
+- Mobile and Database Testing fundamentals
+- Array-based coding and problem-solving
+- Communication and stakeholder management
