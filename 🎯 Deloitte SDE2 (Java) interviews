@@ -1,0 +1,30 @@
+🎯 Deloitte SDE2 (Java) interviews
+Compiled these from patterns widely reported by candidates across interview-prep communities. If you're prepping for an SDE2 Java role — not just Deloitte — this list covers what actually gets asked.
+𝗥𝗼𝘂𝗻𝗱 𝟭 — 𝗢𝗻𝗹𝗶𝗻𝗲 𝗔𝘀𝘀𝗲𝘀𝘀𝗺𝗲𝗻𝘁
+ • Find the first non-repeating character in a string
+ • Detect a cycle in a linked list
+ • MCQs on OOP concepts, exception handling, DBMS normalization, and basic aptitude
+𝗥𝗼𝘂𝗻𝗱 𝟮 — 𝗖𝗼𝗿𝗲 𝗝𝗮𝘃𝗮 & 𝗗𝗦𝗔
+ • What's the difference between == and .equals()? Why does String behave differently?
+ • Why must equals() and hashCode() always be overridden together?
+ • How does HashMap work internally? What changed in Java 8?
+ • Difference between HashMap, LinkedHashMap and TreeMap?
+ • Explain the 4 pillars of OOP — with a real example from your own project
+ • Interface vs abstract class — when do you actually choose one over the other?
+ • Method overloading vs overriding — what's resolved at compile time vs runtime?
+ • Two Sum — find the first pair that adds up to a target
+ • What is the diamond problem, and how does Java avoid it?
+𝗥𝗼𝘂𝗻𝗱 𝟯 — 𝗦𝗽𝗿𝗶𝗻𝗴, 𝗦𝗤𝗟 & 𝗗𝗲𝘀𝗶𝗴𝗻
+ • What is dependency injection, and why constructor injection over field injection?
+ • What are Spring's default bean scopes? When would you use something other than singleton?
+ • Difference between @Component, @Service, @Repository, @Controller?
+ • What is the N+1 query problem in Hibernate/JPA, and how do you fix it?
+ • @Transactional — default propagation vs REQUIRES_NEW?
+ • What is idempotency, and why does it matter for REST APIs?
+ • Design a rate limiter for an API — walk through your approach
+ • synchronized vs ReentrantLock — when would you actually reach for Lock?
+𝗥𝗼𝘂𝗻𝗱 𝟰 — 𝗠𝗮𝗻𝗮𝗴𝗲𝗿𝗶𝗮𝗹 / 𝗛𝗥
+ • Walk me through a challenging bug you fixed
+ • Why Deloitte?
+ • Tell me about a time you disagreed with a teammate on a technical decision
+ • What questions do you have for me?
