@@ -1,0 +1,30 @@
+𝗡𝗮𝗴𝗮𝗿𝗿𝗼 𝗤𝗔 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀
+
+- Write a Java Program to find the Maximum Sum Subarray.  
+- How does `System.out.println()` work internally?  
+- Write a code example to achieve Multiple Inheritance using Interfaces.  
+- Why is String immutable in Java? How is StringBuffer different?  
+- How would you design test cases when requirements are unclear?  
+- If you have 10 test cases failing randomly, what would be your approach to fix them?  
+- Explain the Bug Life Cycle in detail.  
+- How would you wait in Selenium until the number of browser tabs equals 4?  
+- How do you wait for a file download to complete in Selenium?  
+- What are DataProviders in TestNG?  
+- What challenges have you faced while working with automation frameworks?  
+- What are Listeners in TestNG and how do you use them?  
+- Given an element, write an XPath using the sibling concept (live coding).  
+- Describe a situation where you disagreed with a developer and how you handled it.  
+- What is the Factory Design Pattern in Java?  
+- How do you decide when to stop testing a feature?  
+- What would be your approach when requirements are incomplete or unclear?  
+- How would you handle Calendar controls in Selenium?  
+- Difference between Actions class and Select class in Selenium.  
+- What steps do you take if you find missing requirements during testing?  
+- How do you fetch the attribute value of an element in Selenium?  
+- What is Multithreading in Java?  
+- What are Global Variables and Environment Variables in Postman?  
+- If an API GET request takes 1 minute to respond, can you use another HTTP method to validate faster?  
+- What is the use of the TRACE HTTP Method? 
+- How do you ensure your test cases are complete and provide full coverage?  
+- How would you test an application for security vulnerabilities?  
+- How would you find duplicate elements in a list using Java Streams?
