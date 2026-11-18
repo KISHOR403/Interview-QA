@@ -1,0 +1,35 @@
+📌 𝗠𝗮𝘃𝗲𝗿𝗶𝗰 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 | 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗤𝗔 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 | 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀
+
+𝗟𝗲𝘃𝗲𝗹 𝟭 (𝗟𝟭) 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀:
+
+1. What is Selenium, and why do we use it?
+2. What is the purpose of using frameworks in testing?
+3. Describe the framework used in your project.
+4. Explain the concept of compilers in Java.
+5. Differentiate between for and while loops in Java.
+6. Which bug-tracking tool do you use?
+7. How do you reduce bugs when implementing automation scripts?
+8. Describe a challenging project you’ve worked on. What difficulties did you face, and how did you overcome them?
+9. Explain method overloading and overriding in Java with code examples.
+
+𝗟𝗲𝘃𝗲𝗹 𝟮 (𝗟𝟮) 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀:
+
+1. Explain constructors in Java and their implementation.
+2. Describe abstract classes and methods, and their implementation.
+3. Can methods be implemented in an abstract class? Explain.
+4. What are the various data types in Java?
+5. Describe type casting in Java with examples.
+6. Write a program that accepts runtime input and displays the output.
+7. What is polymorphism, and how is it implemented in Java?
+8. List and describe the different locators used in Selenium.
+9. How do you approach finding and locating links on a webpage?
+10. What is the best approach to locate elements on a webpage?
+11. Explain the Cucumber framework and its Runner class.
+12. How do you integrate Cucumber with TestNG?
+13. Describe the TestNG framework and its functionalities.
+14. List and explain the attributes used in TestNG.
+15. What happens if no priorities are set in TestNG?
+16. Is it possible to set negative priorities in TestNG? How does it affect execution?
+17. Differentiate between Smoke, Sanity, and Regression testing.
+18. Explain exception handling in Java.
+19. Describe the different types of XPath expressions and their usage.
