@@ -1,0 +1,38 @@
+Deloitte | Interview Questions
+
+𝗠𝗮𝗻𝘂𝗮𝗹 𝗧𝗲𝘀𝘁𝗶𝗻𝗴
+1 - Explain your current project and QA
+responsibilities
+2 - Severity vs Priority with examples
+3 - STLC (Software Testing Life Cycle)
+4 - Test case vs Test scenario
+5 - Bug life cycle
+6 - Negative test cases for Login
+7- Scenarios for Login, Payment, Search, Filter
+8 - Handling non-reproducible and production bugs
+9 - Test coverage when time is limited
+
+𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 (𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺 + 𝗝𝗮𝘃𝗮)
+1 - Implicit vs Explicit wait
+2 - WebDriverWait usage
+3 - Handling multiple windows
+4 - Dynamic XPath scenarios
+5 - Locator strategies and best practices
+6 - Page Object Model (POM) and why it’s used
+7 - Handling stale element reference exception
+8 - Java Fundamentals
+9 - Interface vs Abstract class
+10 - OOP concepts with real examples
+11 - String immutability
+12 - Checked vs Unchecked exceptions
+13 - Basic coding logic (string manipulation, loops, conditions)
+
+𝗔𝗣𝗜 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 (𝗥𝗲𝘀𝘁 𝗔𝘀𝘀𝘂𝗿𝗲𝗱 / 𝗣𝗼𝘀𝘁𝗺𝗮𝗻)
+1- Common HTTP status codes
+2- GET vs POST vs PUT vs PATCH
+3- Writing a basic API validation script
+4- Git and Version Control
+5- Merge vs Rebase
+6- Pull vs Fetch
+7- Handling merge conflicts
+8- Commit, push, branch basics
