@@ -1,0 +1,38 @@
+Publicis Sapient - 𝗤𝗔 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 | 𝗥𝗼𝘂𝗻𝗱 𝟭
+
+Java + Selenium
+1. Does Map support null keys in Java?
+2. Can a constructor be declared as static?
+3. Can static methods be overridden or overloaded?
+4. Is it valid to declare public static final variables in Java?
+5. How do you invoke constructors from the same class and other classes?
+6. Can a constructor be private? Explain the use cases.
+7. What is the purpose of constructors in Selenium frameworks?
+
+TestNG & Frameworks
+1. How can you run a test method/class 100 times in TestNG?
+2. Can priority in TestNG be zero or negative?
+3. How do you implement parameterized testing in TestNG?
+4. What is the difference between @BeforeTest and @BeforeClass?
+5. How do you create and use a DataProvider in TestNG?
+6. What are Groups in TestNG?
+
+Selenium Concepts
+1. What are the different types of waits in Selenium and where do we use them?
+
+OOPs & Interface Handling
+1. Explain OOPs concepts and their relevance in Selenium frameworks.
+2. Given two interfaces, one with 4 methods and another with 2, how can you selectively implement only a few methods?
+
+Java Coding Challenges
+1. Sort a HashMap using keys, where one key is null.
+2. Given 3 stairs, find the number of ways to reach the top from ground level.
+
+Git & CI/CD
+Git commands:
+1. Is `git push origin feature-branch` correct? Why?
+2. What does `git stash` do?
+3. What is the use case of `git cherry-pick`?
+4. What are Git branching strategies?
+5. How do you achieve parallel test execution in Selenium?
+6. How do you integrate and run Selenium tests in Jenkins?
