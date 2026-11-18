@@ -1,0 +1,60 @@
+TCS | Senior QA Engineer | Interview Questions|Banglore oct 2026 drive
+
+Preparing for a Senior QA / Automation Testing interview at TCS? Here are important questions covering Manual Testing, Selenium, Java, API Testing and Automation Frameworks.
+
+1. Manual Testing
+
+1. Explain Agile methodology and your role in it.
+2. What are the key points of writing effective test cases?
+3. Explain the Bug Life Cycle.
+4. Test Scenario vs Test Case.
+5. Functional vs Non-Functional Testing.
+6. Smoke vs Sanity Testing.
+7. Explain STLC.
+8. Alpha vs Beta Testing.
+9. How many test cases have you automated in one sprint?
+10. How do you select test cases for automation?
+11. Which test cases should not be automated? Is 100% automation possible?
+12. What details should a good bug report contain?
+13. Which tools do you use to manage test cases?
+
+2. Selenium Automation
+
+1. Implicit Wait vs Explicit Wait.
+2. How do you write XPath for dynamic elements?
+3. Actions class vs Select class.
+4. Explain your roles and responsibilities.
+5. What are five common Selenium exceptions?
+6. Explain OOP concepts.
+7. findElement() vs findElements().
+8. How do you handle alerts?
+9. Write Selenium code to capture screenshots.
+10. What is Priority in TestNG?
+11. Which reporting tools do you use?
+12. Explain your automation framework.
+13. How do you manage test data?
+
+3. Core Java
+
+1. Abstract Class vs Interface.
+2. Write Java programs to reverse a string and manipulate arrays.
+3. HashMap vs HashSet.
+4. Array vs ArrayList.
+5. Explain Java Collection Framework.
+6. Why is String immutable?
+7. Collection vs Collections.
+8. StringBuffer vs StringBuilder.
+
+4. Cucumber BDD
+
+1. Scenario vs Scenario Outline.
+2. What are Cucumber Tags?
+3. How do you execute scenarios using tags?
+4. How do you integrate Cucumber with Selenium and TestNG?
+
+5. API Testing
+
+1. Explain HTTP status codes: 200, 201, 400, 401, 403, 404 and 500.
+2. PUT vs PATCH.
+3. How do you validate API responses, headers and response bodies?
+4. How do you perform positive and negative API testing?
