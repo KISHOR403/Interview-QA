@@ -25,3 +25,48 @@ CGI | QA Automation | Interview Qs
 ➡️ Which of following browser support selenium?
 ➡️ Which method are present in POM to locate webelement?
 ➡️ Which type of wait command waits for a certain amount of time before it throws an exception?
+
+
+
+
+
+𝗖𝗚𝗜 : 𝗤𝗔 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀
+
+Selenium Basics
+
+1- What is Selenium?
+2- Which component of Selenium is the most important?
+3- Which browsers support Selenium?
+
+Locators & XPath
+
+4- Among all the locators, which one is the fastest?
+5- How many locators are there in Selenium?
+6- How many types of XPath are there in Selenium?
+7- Which type of XPath starts with a double forward slash (//)?
+8- Which type of XPath starts with a single forward slash ( / )?
+9- Write the syntax for Absolute XPath.
+10- Which XPath is used to search dissimilar nodes in an XML document from the current node?
+
+Element Handling
+
+11- When you want to access a single element on a webpage, which method will you use?
+12- Which class is used to handle dropdowns in Selenium?
+13- Which method throws an exception when an element is not found?
+
+Framework / Tools
+
+14- What is Page Object Model (POM)?
+15- Which tool is used to manage and organize JAR files and libraries in automation projects?
+16- Which open-source tool allows reading and writing Excel files using Java?
+
+BDD / Gherkin
+
+17- Which language is used in Gherkin?
+18- What are the main keywords used in Gherkin?
+
+Testing Concepts
+
+19- What is UI Testing?
+20- What is open-source software?
+21- What is Regression Testing?
