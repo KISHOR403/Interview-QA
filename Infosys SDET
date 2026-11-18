@@ -1,0 +1,54 @@
+Infosys 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 – 𝗦𝗗𝗘𝗧 / 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 𝗥𝗼𝗹𝗲
+
+One of my friend recently appeared for Infosys interview and
+Here’s a summary of the L1 round interview questions along with short answers that might help others preparing. 
+
+L1 Interview Questions & Answers
+
+1. Tell me about yourself
+Ans) Shared my experience in Automation Testing, skills (Java, Selenium, TestNG, Maven), framework design, and exposure to Agile methodology.
+
+2. Describe your project and your role
+Ans)Explain automation framework development, test case design, execution, reporting, CI/CD integration, and defect management.
+
+3. Are you designing the framework? Explain its folder structure
+Ans) Yes. Standard folders: src/main/java (base, utilities, page classes), src/test/java (test scripts), resources (config, test data), reports.
+
+4. What type of framework are you using?
+Ans)Hybrid framework (POM + Data Driven + TestNG).
+
+5. What is the Maven command you use?
+Ans) mvn clean test (to clean old builds and run test cases).
+
+6. Write a program to reverse a string
+Ans)Using StringBuilder sb = new StringBuilder(str); sb.reverse();.
+
+7. Automation Scenario (Amazon – search mobiles, scroll, find 7th item XPath)
+Ans) Use Actions or JavascriptExecutor for scrolling, and generic XPath 
+
+8. Validate multiple mobile numbers on a site
+Ans) Use regex ([0-9]{10}) to check validity, loop through list, maintain counters for valid/invalid.
+
+9. Selenium program to read data from Excel
+Ans) Use Apache POI library to read rows/cells and pass data into tests.
+
+10. Difference between method overloading & overriding
+Ans)
+Overloading → Same method name, different parameters (compile-time polymorphism).
+Overriding → Same method signature, child class modifies parent method (runtime polymorphism).
+
+11. Primary key vs Foreign key
+Ans) Primary key → uniquely identifies rows in a table.
+Foreign key → establishes relationship between two tables referencing primary key.
+
+12. HTTP Status codes
+Ans)200 → Success, 201 → Created, 400 → Bad Request, 401 → Unauthorized, 404 → Not Found, 500 → Server Error.
+
+13. HTTP method calls
+Ans) GET (fetch), POST (create), PUT (update), DELETE (remove).
+
+14. What is inheritance? Where do you apply it in framework?
+Ans) Inheritance → acquiring properties from parent class. Used in framework for BaseClass (WebDriver setup, common methods) extended by TestClasses.
+
+15. Explain testng.xml file
+Ans) XML file to configure suites, groups, parameterization, parallel execution, and test order
