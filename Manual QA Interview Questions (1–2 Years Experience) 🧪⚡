@@ -1,0 +1,33 @@
+Manual QA Interview Questions (1–2 Years Experience) 🧪⚡
+⠀
+A curated collection of essential manual testing interview questions structured across foundational, scenario-based, and strategy/tool rounds:
+⠀
+📌 Round 1: Core QA Fundamentals
+1. What is Software Testing and why is it critical in the SDLC?
+2. Explain the differences between SDLC and STLC phases.
+3. Differentiate between Verification and Validation.
+4. What is the difference between a Test Scenario and a Test Case?
+5. Walk through the complete Bug Life Cycle states.
+6. Differentiate between Defect Severity and Priority with real-world examples.
+7. What is Regression Testing and when is it performed?
+8. Explain the core differences between Smoke Testing and Sanity Testing.
+9. What is a Test Plan and what are its key components?
+10. What is Black Box Testing and what techniques does it involve?
+⠀
+📌 Round 2: Practical & Scenario-Based Testing
+1. How would you design end-to-end test scenarios for a Login Page?
+2. How do you construct test cases for a User Registration / Signup Form?
+3. What types of functional and non-functional testing have you performed?
+4. How do you assign Priority and Severity to test cases?
+5. What is Exploratory Testing and when should it be applied?
+6. Walk through your process for logging and reporting a defect.
+7. What key fields must a clear, actionable Bug Report contain?
+8. What is Retesting and how does it differ from Regression Testing?
+9. How do you handle missing or ambiguous requirements?
+10. What real-world challenges have you faced in manual testing and how did you resolve them?
+⠀
+📌 Round 3: QA Mindset, Methodology & Tools
+1. Which Test Management tools (e.g., TestRail, Zephyr) have you used?
+2. Which Bug Tracking tools (e.g., Jira) have you worked with?
+3. Explain the four main levels of testing (Unit, Integration, System, Acceptance).
+4. How do you ensure maximum Test Coverage using a Requirement Traceability Matrix (RTM)?
