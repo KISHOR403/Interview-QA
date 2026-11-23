@@ -1,0 +1,34 @@
+Barclays | QA Automation Interview Questions
+
+Round 1 – Technical (Core Java & Selenium):
+
+1. What are the differences between findElement() and findElements()?
+2. How do you handle dynamic web elements in Selenium?
+3. Explain different types of waits used in Selenium.
+4. What's the difference between XPath and CSS Selector?
+5. How do you handle multiple windows/tabs in Selenium?
+6. How do you design a Page Object Model (POM) framework?
+7. What is the use of final, static, and this keywords in Java?
+8. Explain Collection Framework – where have you used HashMap or ArrayList in your automation?
+9. How do you handle exceptions in Selenium scripts?
+10. What's your approach to data-driven testing using TestNG or Excel?
+
+Round 2 – Framework & Advanced Concepts:
+
+1. Walk me through your automation framework architecture.
+2. How do you manage test data and environment configurations?
+3. What are your best practices to make automation scripts more maintainable?
+4. How do you handle failed test cases in Jenkins or CI/CD pipelines?
+5. What's your strategy for flaky test handling?
+6. How do you decide which test cases to automate?
+7. Explain your Git branching strategy or version control workflow.
+8. How do you integrate API testing in your automation framework?
+9. What are common challenges you faced in automation and how did you resolve them?
+10. Have you worked with parallel execution or cross-browser testing tools?
+
+Round 3 – Managerial + HR
+
+1. Tell me about a time you identified a critical bug through automation.
+2. How do you ensure test coverage and quality metrics?
+3. Describe a challenging situation with developers or deadlines and how you handled it.
+4. Why do you want to join Barclays?
