@@ -1,0 +1,31 @@
+Quest Global SDET / Playwright Interview Experience
+
+L1-Technical Round
+
+1- Explain your automation framework structure.
+2- What is Auto-Wait in Playwright?
+3- Write JavaScript code to count character occurrences in a string.
+4- Explain the Agile methodology you follow.
+5- How do you create effective test data?
+6- How do you decide bug severity and priority?
+7- How do you prioritize bugs before a release?
+8- How do you decide which test cases belong in Smoke vs Regression?
+9- What is Regression Testing and when do you perform it?
+10- Explain Boundary Value Analysis with an example.
+11- How do you handle file upload and download in Playwright?
+
+L2-Face-to-Face Round
+
+1- Write pseudocode to convert a date from one format to another.
+2- What would you do if a developer says, "This bug is not reproducible"?
+3- How do you decide what to automate and what to test manually?
+4- Explain your CI/CD execution setup. How do you identify and handle flaky tests?
+5- Explain your application/project.
+6- Tell me about a challenging bug you found and how you handled it.
+7- How do you make automation tests stable and reliable?
+8- Which Al tools do you use in your day-to-day QA work?
+9- How are you using MCP servers or Playwright agents in automation?
+10- What are the limitations of Al tools in testing?
+11- How do you understand a new application/domain when you join a project?
+12- How do you ensure there are no critical bugs before a release?
+13- Which testing metrics do you track?
