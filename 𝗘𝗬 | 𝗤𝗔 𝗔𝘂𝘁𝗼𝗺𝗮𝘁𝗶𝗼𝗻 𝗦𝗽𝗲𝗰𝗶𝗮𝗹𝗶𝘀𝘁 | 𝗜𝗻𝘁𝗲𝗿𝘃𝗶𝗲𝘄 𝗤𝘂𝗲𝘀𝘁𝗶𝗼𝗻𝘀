@@ -1,0 +1,28 @@
+📌 𝗘𝗬 | 𝗤𝗔 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 | 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀
+
+🔹 𝗥𝗼𝘂𝗻𝗱 𝟭: 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 - 𝗣𝗹𝗮𝘆𝘄𝗿𝗶𝗴𝗵𝘁, 𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺, 𝗔𝗽𝗶
+1. Introduce yourself and walk through your experience in test automation.
+2. What key factors do you consider when selecting an automation tool for a project?
+3. Generate sequence 100, 10, 90, 20, 80, 30 from inputs 100 and 10.
+4. Count occurrences of each character in string e.g. "success" -> s:3, u:1, c:2, e:1.
+5. How do you perform Ctrl + A and right-click operations using Actions class?
+6. How do you intercept and override API network payloads in Playwright?
+7. How do you verify file downloads in headless Chrome execution mode?
+8. How do you execute multi-part file upload API requests in REST Assured?
+9. How do you handle dynamic web tables with infinite scroll pagination controls?
+10. How do you run specific TestNG execution groups selectively via Maven CLI?
+11. How do you handle OAuth token refresh automatically in API regression runs?
+12. How do you automate verification that a confirmation email was sent post registration?
+13. How do you verify CSS properties like element color, font, and layout position?
+
+🔹 𝗥𝗼𝘂𝗻𝗱 𝟮: 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻
+1. Walk me through your Page Object Model design for single-page applications.
+2. How do you maintain ThreadLocal WebDriver instances for parallel executions?
+3. How do you seed SQL database preconditions prior to executing API test suites?
+4. How do you configure visual comparison checks for dynamic dashboard charts?
+5. How do you set up Azure DevOps build pipeline triggers on pull request creation?
+6. How do you externalize locators into central JSON files for maintenance?
+7. How do you handle flaky test retry mechanisms without ballooning build time?
+8. How do you extract and capture browser console error logs during execution?
+9. How do you handle automating a feature that is not yet fully developed?
+10. How do you execute a 5,000-case regression suite within a strict 4-hour constraint?
