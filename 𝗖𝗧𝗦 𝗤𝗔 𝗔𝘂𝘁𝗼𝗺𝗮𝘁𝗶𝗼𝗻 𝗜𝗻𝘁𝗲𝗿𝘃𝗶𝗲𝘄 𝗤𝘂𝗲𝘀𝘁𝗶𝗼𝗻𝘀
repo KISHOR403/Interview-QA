@@ -1,0 +1,26 @@
+𝗖𝗧𝗦 𝗤𝗔 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀
+
+𝗥𝗼𝘂𝗻𝗱 𝟭: 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 & 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀
+
+1. Introduce yourself.
+2. How can you execute Selenium test cases on a remote machine?
+3. How do you pass the browser name as an argument from a Jenkins file to a Cucumber step definition?
+4. Which TestNG listeners have you used in your automation framework?
+5. In Cucumber, how can you ensure that a specific piece of code runs only before the first scenario in a feature file?
+6. Given an array {6, 8, 11, 6, 7, 18} and a target sum of 17, write a program to find the indices of any two elements whose sum equals the target.
+7. What is the purpose of interfaces in Java? Provide examples of how you have implemented them in your test automation framework.
+8. Write an XPath expression to locate the label named "Senior Citizen" on the SpiceJet UI.
+9. How do you integrate and execute your Selenium tests in a CI/CD pipeline?
+10. What approach would you take to identify and validate broken links on a web page?
+
+𝗥𝗼𝘂𝗻𝗱 𝟮: 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗝𝗮𝘃𝗮, 𝗥𝗘𝗦𝗧 𝗔𝗣𝗜, 𝗮𝗻𝗱 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀
+
+1. Explain the static keyword in Java and its primary use cases.
+2. What is the purpose of a constructor in Java? How does it differ from a method?
+3. Write a Java program to determine the most frequently occurring character and the least frequently occurring character in a given string.
+4. Write an XPath expression to locate a specific cell in a web table based on the value of a neighboring cell.
+5. A particular text can appear in any cell within a web table. How would you locate it dynamically?
+6. What is dependency injection in Rest Assured? How does it enhance API testing?
+7. Explain the difference between HTTP 401 (Unauthorized) and HTTP 403 (Forbidden) status codes.
+
+𝗣𝗿𝗼 𝗧𝗶𝗽: Cognizant focuses on automation frameworks, problem-solving skills, and API testing knowledge. Be well-versed in Selenium, TestNG, Cucumber, REST Assured, and CI/CD pipelines.
